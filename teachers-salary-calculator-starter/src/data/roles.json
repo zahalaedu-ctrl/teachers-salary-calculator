@@ -1,0 +1,56 @@
+[
+  {
+    "id": "homeroom_teacher",
+    "label": "מחנך/ת כיתה",
+    "defaultPercent": 0,
+    "note": "גמול חינוך יחושב לפי כללי גמול חינוך."
+  },
+  {
+    "id": "subject_coordinator",
+    "label": "רכז/ת מקצוע",
+    "defaultPercent": 6
+  },
+  {
+    "id": "ict_coordinator",
+    "label": "רכז/ת תקשוב",
+    "defaultPercent": 6
+  },
+  {
+    "id": "pedagogical_coordinator",
+    "label": "רכז/ת פדגוגי/ת",
+    "defaultPercent": 8
+  },
+  {
+    "id": "lab_coordinator",
+    "label": "רכז/ת מעבדה",
+    "defaultPercent": 3
+  },
+  {
+    "id": "mentor_teacher",
+    "label": "מורה חונך/ת",
+    "defaultPercent": 2.4,
+    "note": "שיעור ראשוני לבדיקה מול מקור רשמי."
+  },
+  {
+    "id": "counselor_temp_license",
+    "label": "יועץ/ת ללא רישיון ייעוץ קבוע",
+    "defaultPercent": 12
+  },
+  {
+    "id": "counselor_permanent_license",
+    "label": "יועץ/ת עם רישיון ייעוץ קבוע",
+    "defaultPercent": 18
+  },
+  {
+    "id": "deputy_principal_first",
+    "label": "סגן/ית מנהל/ת ראשון/ה",
+    "defaultPercent": 0,
+    "note": "יחושב בהמשך לפי כללי סגנות."
+  },
+  {
+    "id": "deputy_principal_second",
+    "label": "סגן/ית מנהל/ת שני/ה",
+    "defaultPercent": 0,
+    "note": "יחושב בהמשך לפי כללי סגנות."
+  }
+]

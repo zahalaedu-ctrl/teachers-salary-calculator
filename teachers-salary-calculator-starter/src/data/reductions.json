@@ -1,0 +1,22 @@
+{
+  "ofekHadash": {
+    "baseFullTimeFrontalHours": 26,
+    "baseFullTimeWeeklyHours": 36,
+    "ageReductions": [
+      {
+        "fromAge": 50,
+        "toAge": 54,
+        "reductionHours": 2
+      },
+      {
+        "fromAge": 55,
+        "toAge": null,
+        "reductionHours": 4
+      }
+    ],
+    "parenthoodEligibility": {
+      "minimumPreReductionPositionPercent": 80,
+      "note": "גם גברים עשויים להיות זכאים לשעות אם לפי הכללים."
+    }
+  }
+}
